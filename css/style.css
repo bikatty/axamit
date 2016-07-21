@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.header{
+	text-align:center;
+	background:url(../img/pw_maze_black_2X.png) left top repeat;
+	padding:280px 0;
+}
