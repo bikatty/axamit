@@ -78,6 +78,34 @@ a, a:hover, a:active{ outline:0px !important}
 	font-weight:500;
 }
 
+.link{
+	padding:15px 35px;
+	width:175px;
+	height:50px;
+	border:0px;
+	background:#a2011f;
+	color:#fff !important;
+	font-size:18px;
+	font-weight:600;
+	font-family: 'Kundera';
+	display:inline-block;
+	border-radius:4px;
+	text-transform:uppercase;
+	margin-top: 30px;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;	
+}
+
+.link:hover {
+	text-decoration:none;
+	color:#fff !important;
+	background:#111;
+}
+
+.link:active, .link:focus {
+	text-decoration:none;
+}
 
 /* Navigation
 ---------------------------------*/
